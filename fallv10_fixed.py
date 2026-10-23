@@ -11,7 +11,7 @@ import json
 from functools import wraps
 import tempfile
 
-TOKEN = "PASTE_TOKEN_KAMU_DI_SINI"
+TOKEN = "8649438301:AAFdEMmOgPOdyESmHga2kSI5zB-3qqBIKng"
 
 apihelper.CONNECT_TIMEOUT = 20
 apihelper.READ_TIMEOUT = 20
